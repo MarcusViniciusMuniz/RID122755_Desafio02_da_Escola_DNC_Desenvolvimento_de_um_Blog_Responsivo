@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem; /* Unidade relativa para melhor acessibilidade */
+    line-height: 1.6;
+    color: #222;
+}
+
+.header {
+    background-color: #1f1f1f;
+    color: #ffffff;
+    padding: 1.5rem;
+    text-align: center;
+}
