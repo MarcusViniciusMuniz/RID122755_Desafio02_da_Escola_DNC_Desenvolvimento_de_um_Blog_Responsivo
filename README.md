@@ -1,0 +1,1 @@
+# RID122755_Desafio02_da_Escola_DNC_Desenvolvimento_de_um_Blog_Responsivo
